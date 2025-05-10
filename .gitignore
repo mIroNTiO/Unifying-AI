@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+logs/
+
+# Data & Indexes
+rag_index/
+rag/metadata.json
+
+# PDFs and other content
+*.pdf
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Jupyter & Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Other temporary or debug files
+*.tmp
